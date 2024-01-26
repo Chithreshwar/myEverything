@@ -3,6 +3,7 @@ package inheritance.example_5;
 public class Example {
 
     public static void main(String[] args) {
+
         Instructor i = new Instructor("Bhavik", "b@d.com", "Mar23 Beginner");
     }
 }
